@@ -7,7 +7,7 @@
 
 ## 시스템 아키텍처
 
-![GCP Infrastructure Diagram](docs/서버구성도.png)
+![GCP Infrastructure Diagram](docs/gcp-server-architecture.png)
 
 - **Cloud Armor**: Web Browser 및 Mobile App으로부터의 트래픽 필터링 및 보안 처리
 - **HTTP Load Balancer**: 외부 요청에 대한 트래픽 분산 처리
